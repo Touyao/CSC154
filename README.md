@@ -1,3 +1,3 @@
 # CSC154
 Repository for CSC154
-I love :football: :family:, and :traveling:
+I love :football: :family:
